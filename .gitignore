@@ -3,3 +3,6 @@
 .settings
 /Data
 .dbeaver/
+Vendor/
+composer.lock
+composer.json
