@@ -1,7 +1,7 @@
 <?php
 
 //echo "Web/index.php";
-
+//ajout pour commiter
 require ('../Vendor/SplClassLoader.php');
 $OCFramLoader = new SplClassLoader('Application', '../');
 $OCFramLoader->register();
